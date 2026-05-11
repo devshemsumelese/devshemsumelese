@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Shemsu Melese 👋
 
-<!--
-**devshemsumelese/devshemsumelese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Software Developer in Progress
 
-Here are some ideas to get you started:
+I am an IT student and aspiring Software Developer focused on building real-world applications, solving problems with code, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- IT Student  
+- Aspiring Software Developer  
+- Currently learning Web Development & Programming  
+- Focused on real-world project building  
+=> Goal: Become a professional Software Engineer  
+   Passionate about clean code, problem solving and technology  
+
+## Tech Stack
+
+### Programming Languages
+- HTML  
+- CSS  
+- JavaScript  
+-php
+-mysql
+-c++
+
+### Tools & Technologies
+- Git & GitHub  
+- VS Code
+- codeBlocks 
+- Basic Web Development  
+- Debugging & Problem Solving
+  
+## What I'm Working On
+- Building real-world web projects  
+- Improving JavaScript skills  
+- Learning software development fundamentals  
+- Practicing Git & version control  .
+  
+##  Featured Projects 
+- Personal Portfolio Website
+- 
+## Career Goals
+- Become a professional Software Developer  
+- Build scalable real-world applications  
+- Contribute to open-source projects  
+- Get internship and job opportunities
+  
+## Connect With Me
+- GitHub: github.com/devshemsumelese  
+- Email: shemsumelese6@gmail.com.com  
+
+## Developer Mindset
+"Consistency beats talent. Every line of code is a step forward."
