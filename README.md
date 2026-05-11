@@ -18,6 +18,7 @@ I am an IT student and aspiring Software Developer focused on building real-worl
 - HTML  
 - CSS  
 - JavaScript  
+-Java
 -php
 -mysql
 -c++
@@ -25,7 +26,8 @@ I am an IT student and aspiring Software Developer focused on building real-worl
 ### Tools & Technologies
 - Git & GitHub  
 - VS Code
-- codeBlocks 
+- codeBlocks
+- netbeans
 - Basic Web Development  
 - Debugging & Problem Solving
   
